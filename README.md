@@ -1,4 +1,3 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Writeup007)](https://github.com/Writeup007)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Writeup007&show_icons=true)](https://github.com/Writeup007)
 
 <!--
